@@ -1,16 +1,26 @@
-# news_app
+# News App Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://github.com/tassiogustavo/news_app/assets/70405308/07a6b000-1de6-468b-aae6-c88b1e7ffe7f
 
-## Getting Started
+## 📝 Descrição do projeto
+Projeto de um aplicativo de noticias o qual mostra noticias recentes e oferece possibilidade de busca de notícias por palavras chave. Foi utilizado a API da newsapi.com para buscar os dados. Foi utilizado a lib http para comunicação com a API, utilizado a API cached_network_image para personalização do carregamento das imagens e a lib url_laucher para abrir o link da noticia original direto no navegador.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Busca de noticias por palavras chave
+* Abrir link original da noticia direto no navegador
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: http (comunicação com a API)
+* LIB: cached_network_image (personalização do carregamento das imagens)
+* LIB: url_launcher (abrir o link da noticia no navegador)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 Links
+* [http](https://pub.dev/packages/http)
+* [cached_network_image](https://pub.dev/packages/cached_network_image)
+* [url_launcher](https://pub.dev/packages/url_launcher)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
